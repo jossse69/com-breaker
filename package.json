@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "dependencies": {
+    "littlejsengine": "^1.9.5",
+    "servor": "^4.0.2"
+  }
+}
