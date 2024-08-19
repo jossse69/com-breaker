@@ -1,7 +1,7 @@
 'use strict';
 
 // Import all exports from 'littlejsengine' as an object named 'LittleJS'
-import * as LittleJS from './libs/littlejs.esm.js';
+import * as LittleJS from './libs/littlejs.esm.min.js';
 
 const levelSize = LittleJS.vec2(38, 20); // size of play area
 const sound_bounce = new LittleJS.Sound([
